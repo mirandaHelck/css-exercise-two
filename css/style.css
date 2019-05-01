@@ -1,15 +1,39 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
-}
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 16px;
 
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: purple;
+}
 nav {
   background-color: rgba(0,0,0,.5);
   float: left;
   position: fixed;
   width: 100%;
 }
-
+h1 {
+  font-size: 3em;
+}
+h3 {
+  font-size: 2em;
+}
+p {
+  font-size: 1em;
+}
 .logo {
   margin: 20px;
   width: 100px;
