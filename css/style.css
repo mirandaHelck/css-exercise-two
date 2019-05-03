@@ -27,12 +27,18 @@ nav {
 }
 h1 {
   font-size: 3em;
+  line-height: 120%;
+  padding-top: 15px;
+  padding-bottom: 20px;
 }
 h3 {
   font-size: 2em;
+  line-height: 120%;
+  padding-bottom: 20px;
 }
 p {
   font-size: 1em;
+  line-height: 120%;
 }
 .logo {
   margin: 20px;
