@@ -38,13 +38,13 @@ h3 {
 }
 p {
   font-size: 1em;
-  line-height: 140%;
+  line-height: 180%;
 }
 .author {
   line-height: 250%;
 }
 .story-text p{
-  margin: 0 0 10px;
+  margin: 0 0 30px;
 }
 .logo {
   margin: 20px;
